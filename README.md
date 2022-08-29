@@ -2,7 +2,7 @@
 
 # Lab | Analytics with PowerBI
 
-Refer to the data source [Marketing_Customer_Analysis.csv](https://github.com/KofiSika/Testing_eye/blob/main/Labs/Data_Analytics_with_PowerBi/Files_for_Lab/Marketing_Customer_Analysis.txt) for this lab
+Refer to the data source [Marketing_Customer_Analysis.csv](https://github.com/ironhack-labs/lab-analytics-with-powerbi/tree/master/files_for_lab) for this lab
 
 ### Instructions 
 
